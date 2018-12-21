@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856899261055",
+    "firebase_url": "https://project-95395.firebaseio.com",
+    "project_id": "project-95395",
+    "storage_bucket": "project-95395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856899261055:android:4d855660f4b76972",
+        "android_client_info": {
+          "package_name": "fr.etna.sf.myartemis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856899261055-p0gqi73fs6l30at7bicevonml11iedcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G5gTVgPjBspKTr_Y3uNqdivxjlDqNmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
